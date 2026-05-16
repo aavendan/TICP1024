@@ -1,35 +1,76 @@
 ---
-title: Home
+title: Principal
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# 📊 TICP1024 - Visualización de Datos Masivos
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+La asignatura **Visualización de Datos Masivos** introduce los fundamentos para diseñar, construir y evaluar visualizaciones efectivas de datos. A lo largo del curso, se explorarán principios de diseño, percepción visual, codificación gráfica e interacción para comunicar información de valor a distintas audiencias.
 
-More specifically, the created site:
+Este curso combina el análisis conceptual con el desarrollo de un **proyecto de visualización interactiva**, que culminará con la presentación de resultados en formato de artículo.
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+---
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+## 🎯 Objetivo general
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+Analizar la aplicación de principios de diseño y técnicas de interacción para la visualización de información mediante el uso de representaciones gráficas eficaces y efectivas.
 
-To get started with creating a site, simply:
+---
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+## 🧠 ¿Qué aprenderás?
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+Al finalizar el curso, serás capaz de:
 
-----
+- Crear visualizaciones efectivas que comuniquen información relevante para distintos tipos de audiencias.
+- Aplicar principios de diseño adecuados para la presentación y difusión de resultados.
+- Explorar datos espaciales, temporales, relacionales y tabulares mediante representaciones visuales.
+- Diseñar herramientas interactivas para facilitar el análisis y la comprensión de datos.
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+---
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+## 🧩 Unidades del curso
+
+### 1. Abstracción de datos y tareas
+- Tipos de datos  
+- Semántica de datos  
+- Tipos de datasets  
+- Gráficos fundamentales  
+- Propósitos de generalizar tareas  
+- Taxonomías existentes  
+
+### 2. Marcas y variables visuales
+- Principios y decisiones de diseño  
+- La pregunta sobre “cómo” visualizar  
+- Codificaciones visuales  
+- Marcas  
+- Variables y canales visuales  
+
+### 3. Interacción
+- Definiciones y objetivos  
+- Técnicas de interacción comunes  
+- Vistas y transformaciones  
+- Vistas únicas  
+- Múltiples vistas  
+
+### 4. Datos espaciales y temporales
+- Visualización de datos espaciales  
+- Visualización de datos temporales  
+- Visualización de datos espaciotemporales  
+
+### 5. Datos relacionales
+- Visualización de redes  
+- Visualización de árboles  
+
+### 6. Proyecto
+Desarrollo de un sistema de visualización interactivo aplicado a un conjunto de datos.
+
+---
+
+## 📚 Bibliografía
+
+### Básica
+- Munzner, T. (2014). *Visualization Analysis and Design*.
+
+### Complementaria
+- Spence, R. (2001). *Information Visualization*. Addison-Wesley.
+- Card, M. (1999). *Readings in Information Visualization: Using Vision to Think*. Morgan Kaufmann.
