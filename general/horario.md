@@ -1,6 +1,7 @@
 ---
 title: Horario
 layout: home
+nav_order: 2
 ---
 
 | Fecha                       | Horario           |

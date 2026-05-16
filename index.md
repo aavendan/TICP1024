@@ -1,6 +1,7 @@
 ---
 title: Inicio
 layout: home
+nav_order: 1
 ---
 
 # 📊 TICP1024 - Visualización de Datos Masivos
@@ -25,41 +26,3 @@ Al finalizar el curso, serás capaz de:
 - Aplicar principios de diseño adecuados para la presentación y difusión de resultados.
 - Explorar datos espaciales, temporales, relacionales y tabulares mediante representaciones visuales.
 - Diseñar herramientas interactivas para facilitar el análisis y la comprensión de datos.
-
----
-
-## 🧩 Unidades del curso
-
-### 1. Abstracción de datos y tareas
-- Tipos de datos  
-- Semántica de datos  
-- Tipos de datasets  
-- Gráficos fundamentales  
-- Propósitos de generalizar tareas  
-- Taxonomías existentes  
-
-### 2. Marcas y variables visuales
-- Principios y decisiones de diseño  
-- La pregunta sobre “cómo” visualizar  
-- Codificaciones visuales  
-- Marcas  
-- Variables y canales visuales  
-
-### 3. Interacción
-- Definiciones y objetivos  
-- Técnicas de interacción comunes  
-- Vistas y transformaciones  
-- Vistas únicas  
-- Múltiples vistas  
-
-### 4. Datos espaciales y temporales
-- Visualización de datos espaciales  
-- Visualización de datos temporales  
-- Visualización de datos espaciotemporales  
-
-### 5. Datos relacionales
-- Visualización de redes  
-- Visualización de árboles  
-
-### 6. Proyecto
-Desarrollo de un sistema de visualización interactivo aplicado a un conjunto de datos.
