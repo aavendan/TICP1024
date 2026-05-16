@@ -5,6 +5,3 @@ parent: Contenidos
 ---
 
 {: .no_toc }
-
-1. Subnidades
-{:toc}
