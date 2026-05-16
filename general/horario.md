@@ -6,7 +6,7 @@ nav_order: 3
 
 # 🗓️ Horario de Clases 
 
-La asignatura se desarrollará de acuerdo con la siguiente planificación:
+La asignatura Visualización de Datos Masivos (TICP1024) se desarrollará de acuerdo con la siguiente planificación:
 
 | Fecha                       | Horario           |
 |:----------------------------|:------------------|
