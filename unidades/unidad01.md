@@ -4,8 +4,7 @@ layout: home
 parent: Contenidos
 ---
 
-## Table of contents
 {: .no_toc }
 
-## Subnidades
+1. Subnidades
 {:toc}
