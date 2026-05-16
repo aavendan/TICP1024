@@ -1,7 +1,7 @@
 ---
 title: Tipos de Datos
 layout: home
-parent: Abstracción de datos y tareas
+parent: Contenidos
 ---
 
 # Tipos de Datos
