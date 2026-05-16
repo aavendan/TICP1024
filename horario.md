@@ -1,6 +1,6 @@
 ---
 title: Horario
-layout: horario
+layout: home
 ---
 
 | Fecha                       | Horario           |
