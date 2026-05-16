@@ -1,8 +1,12 @@
 ---
 title: Horario
 layout: home
-nav_order: 2
+nav_order: 3
 ---
+
+# 🗓️ Horario de Clases 
+
+La asignatura se desarrollará de acuerdo con la siguiente planificación:
 
 | Fecha                       | Horario           |
 |:----------------------------|:------------------|
