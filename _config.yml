@@ -4,5 +4,8 @@ theme: just-the-docs
 
 url: https://aavendan.github.io/TICP1024
 
+toc:
+  title: "Tabla de contenidos"
+
 plugins:
   - jekyll-pdf-embed
