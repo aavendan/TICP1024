@@ -1,7 +1,7 @@
 ---
 title: Tipos de Datos
 layout: home
-parent: Unidad 01
+parent: Contenidos
 ---
 
 # 1.1 Tipos de Datos

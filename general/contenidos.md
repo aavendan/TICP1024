@@ -7,7 +7,7 @@ nav_order: 4
 ## 🧩 Contenido del curso
 
 ### Unidad 1: Abstracción de datos y tareas
-- Tipos de datos  
+- [Tipos de datos](unidades/tiposdatos)  
 - Semántica de datos  
 - Tipos de datasets  
 - Gráficos fundamentales  
