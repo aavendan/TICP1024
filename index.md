@@ -1,5 +1,5 @@
 ---
-title: Principal
+title: Inicio
 layout: home
 ---
 
@@ -63,14 +63,3 @@ Al finalizar el curso, serás capaz de:
 
 ### 6. Proyecto
 Desarrollo de un sistema de visualización interactivo aplicado a un conjunto de datos.
-
----
-
-## 📚 Bibliografía
-
-### Básica
-- Munzner, T. (2014). *Visualization Analysis and Design*.
-
-### Complementaria
-- Spence, R. (2001). *Information Visualization*. Addison-Wesley.
-- Card, M. (1999). *Readings in Information Visualization: Using Vision to Think*. Morgan Kaufmann.

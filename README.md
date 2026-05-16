@@ -23,49 +23,6 @@ Al finalizar el curso, serás capaz de:
 
 ---
 
-## 🧩 Unidades del curso
+## 🚀 Página de la asignatura
 
-### 1. Abstracción de datos y tareas
-- Tipos de datos  
-- Semántica de datos  
-- Tipos de datasets  
-- Gráficos fundamentales  
-- Propósitos de generalizar tareas  
-- Taxonomías existentes  
-
-### 2. Marcas y variables visuales
-- Principios y decisiones de diseño  
-- La pregunta sobre “cómo” visualizar  
-- Codificaciones visuales  
-- Marcas  
-- Variables y canales visuales  
-
-### 3. Interacción
-- Definiciones y objetivos  
-- Técnicas de interacción comunes  
-- Vistas y transformaciones  
-- Vistas únicas  
-- Múltiples vistas  
-
-### 4. Datos espaciales y temporales
-- Visualización de datos espaciales  
-- Visualización de datos temporales  
-- Visualización de datos espaciotemporales  
-
-### 5. Datos relacionales
-- Visualización de redes  
-- Visualización de árboles  
-
-### 6. Proyecto
-Desarrollo de un sistema de visualización interactivo aplicado a un conjunto de datos.
-
----
-
-## 📚 Bibliografía
-
-### Básica
-- Munzner, T. (2014). *Visualization Analysis and Design*.
-
-### Complementaria
-- Spence, R. (2001). *Information Visualization*. Addison-Wesley.
-- Card, M. (1999). *Readings in Information Visualization: Using Vision to Think*. Morgan Kaufmann.
+[Sitio en GitHub Pages](https://aavendan.github.io/TICP1024/)

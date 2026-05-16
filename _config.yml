@@ -3,3 +3,10 @@ description: Analizar la aplicación de principios de diseño y técnicas de int
 theme: just-the-docs
 
 url: https://aavendan.github.io/TICP1024
+
+collections:
+  tutorials:
+    order:
+      - index.md
+      - general/horario.md
+      - general/referencias.md
