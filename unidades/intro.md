@@ -70,7 +70,7 @@ La visualización permite:
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
   <div>
     <h4>Leer tablas → requiere memoria</h4>
-    <table>
+    <table style="width: 75%">
       <thead>
         <tr>
           <th>ID</th>
@@ -91,7 +91,7 @@ La visualización permite:
   </div>
   <div>
     <h4>Ver visualización → permite detectar patrones rápidamente</h4>
-    <table>
+    <table style="width: 75%">
       <thead>
         <tr>
           <th>ID</th>
@@ -109,11 +109,28 @@ La visualización permite:
       </tbody>
     </table>
     <h5>Leyenda:</h5>
-    <ul>
-      <li>🟢 Bajo</li>
-      <li>🟡 Medio</li>
-      <li>🔴 Alto</li>
-    </ul>
+    <table>
+      <thead>
+        <tr>
+          <th>Color</th>
+          <th>Significado</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>🟢</td>
+          <td>Bajo</td>
+        </tr>
+        <tr>
+          <td>🟡</td>
+          <td>Medio</td>
+        </tr>
+        <tr>
+          <td>🔴</td>
+          <td>Alto</td>
+        </tr>
+      </tbody>
+    </table>
 
   </div>
 </div>
