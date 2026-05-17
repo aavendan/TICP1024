@@ -4,7 +4,7 @@ layout: home
 parent: Contenidos
 ---
 
-# 🚀 Proyecto de Visualización de Datos Masivos
+## 🚀 Proyecto de Visualización de Datos Masivos
 
 El proyecto de la asignatura Visualización de Datos Masivos (TICP1024) consiste en el diseño e implementación de una solución de visualización interactiva que permita analizar y comunicar información relevante a partir de un conjunto de datos. 
 

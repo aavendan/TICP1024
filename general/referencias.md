@@ -4,7 +4,9 @@ layout: home
 nav_order: 10
 ---
 
-## 📚 Bibliografía
+# 📚 Referencias
+
+## 📖 Bibliografía
 
 * Visualization Analysis and Design. (n.d.). Retrieved May 17, 2026 from https://www.cs.ubc.ca/~tmm/vadbook/
 * Interactive Data Visualization for the Web, 2nd Ed. — Scott Murray — scottmurray. (n.d.). Retrieved May 17, 2026 from https://scottmurray.org/work/d3-book-2e
