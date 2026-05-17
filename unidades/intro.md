@@ -1,20 +1,23 @@
 ---
-title: Análisis y diseño de visualización
+title: Visualización de Datos
 layout: home
 parent: Contenidos
 nav_order: 0
 ---
 
-# 📊 Análisis y diseño de visualización 
+# 📊 Visualización de Datos
 ## Capítulo 1: ¿Qué es la visualización y por qué utilizarla?
 
 ---
 
 ## 🔍 Definición de visualización
 
-La visualización (vis) se define como:
+La visualización se define como:
 
+{: .important }
 > Sistemas computacionales que generan representaciones visuales de datos diseñadas para ayudar a las personas a realizar tareas de manera más efectiva.
+>
+> _Computer-based visualization systems provide visual representations of datasetsdesigned to help people carry out tasks more effectively._
 
 ### 🧠 Elementos clave:
 - Datos
