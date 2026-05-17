@@ -21,4 +21,4 @@ nav_order: 10
 
 * Home \| Just the Docs. (n.d.). Just the Docs. Retrieved May 17, 2026 from https://just-the-docs.com/
 * Jekyll • Simple, blog-aware, static sites \| Transform your plain text into static websites and blogs. (n.d.). Jekyll • Simple. Blog-aware. Static Sites. Retrieved May 17, 2026 from https://jekyllrb.com/
-* Mihajlonesic. (n.d.). MihajloNesic/jekyll-pdf-embed: :page_facing_up: Jekyll plugin for embedding PDF and PowerPoint files to any page or post. GitHub. Retrieved May 17, 2026 from https://github.com/MihajloNesic/jekyll-pdf-embed
+* Mihajlonesic. (n.d.). MihajloNesic/jekyll-pdf-embed: Jekyll plugin for embedding PDF and PowerPoint files to any page or post. GitHub. Retrieved May 17, 2026 from https://github.com/MihajloNesic/jekyll-pdf-embed
