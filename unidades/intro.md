@@ -28,3 +28,53 @@ La visualización se define como:
 2. Tareas
 3. Representación visual
 </details>
+
+---
+
+## El rol del ser humano (Human-in-the-loop)
+
+<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 20px;">
+  <div>
+    <h4>❌ ¿Cuándo NO es necesaria la visualización?</h4>
+
+    No se necesita visualización cuando:
+    - Existe una solución completamente automática
+    - Y dicha solución es confiable
+  </div>
+  <div>
+    <h4>✔️ ¿En qué casos SÍ es útil la visualización?</h4>
+    
+    🔍 1. Uso exploratorio a largo plazo
+    - Para usuarios finales que analizan datos continuamente  
+    - 📌 Ejemplo: análisis exploratorio de datos científicos
+
+    📰 2. Presentación de resultados conocidos
+    - Para comunicar hallazgos ya identificados  
+    - 📌 Ejemplo: visualizaciones en *The New York Times – Upshot*
+
+    🧪 3. Paso previo al desarrollo de modelos
+    - Permite entender mejor el problema antes de automatizarlo
+    - Ayuda a definir requerimientos
+    
+    ⚙️ 4. Apoyo a desarrolladores de soluciones automáticas
+    - Refinar algoritmos
+    - Ajustar parámetros
+    - Validar comportamiento del modelo
+
+    🔎 5. Verificación y confianza en sistemas automáticos
+    - Permite a los usuarios:
+    - Evaluar resultados
+    - Detectar errores
+    - Construir confianza en el sistema
+  </div>
+  <div>
+    <h4>❓ Problemas de análisis mal definidos</h4>
+    
+    Muchos problemas de análisis de datos son **il-especificados**, lo que significa que:
+
+    - No se conocen exactamente las preguntas desde el inicio
+    - Existen múltiples posibles direcciones de análisis
+    - Se requiere exploración y adaptación continua
+  </div>
+</div>
+
