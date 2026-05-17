@@ -94,3 +94,10 @@ La visualización permite:
 
 {: .highlight }
 > La visualización transforma tareas cognitivas (leer, recordar, comparar) en tareas perceptuales (ver, reconocer, identificar).
+
+
+---
+
+## ¿Por qué la visión?
+
+<img src="../files/images/senses.png" alt="¿Por qué la visión?" width="75%">
