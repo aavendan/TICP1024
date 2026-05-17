@@ -2,6 +2,7 @@
 title: Análisis y diseño de visualización
 layout: home
 parent: Contenidos
+nav_order: 0
 ---
 
 # 📊 Análisis y diseño de visualización 
