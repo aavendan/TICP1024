@@ -56,4 +56,41 @@ La visualización se define como:
 </div>
 
 {: .highlight }
-La visualización no reemplaza a los sistemas automáticos, sino que los complementa, especialmente cuando hay incertidumbre, exploración o necesidad de interpretación.
+> La visualización no reemplaza a los sistemas automáticos, sino que los complementa, especialmente cuando hay incertidumbre, exploración o necesidad de interpretación.
+
+---
+
+## Representaciones visual: Cognición vs Percepción
+
+La visualización permite:
+
+- Reducir carga cognitiva
+- Transformar tareas *cognitivas* en **perceptuales**
+
+### 📊 Leer tablas → requiere memoria
+
+| ID | Valor A | Valor B | Valor C |
+|----|--------|--------|--------|
+| 1  | 12     | 45     | 78     |
+| 2  | 15     | 50     | 82     |
+| 3  | 11     | 47     | 80     |
+| 4  | 18     | 52     | 85     |
+| 5  | 14     | 49     | 79     |
+
+### 🎨 Ver visualización → permite detectar patrones rápidamente
+
+| ID | Valor A | Valor B | Valor C |
+|----|--------|--------|--------|
+| 1  | 🟢     | 🟡     | 🔴     |
+| 2  | 🟢     | 🟡     | 🔴     |
+| 3  | 🟢     | 🟡     | 🔴     |
+| 4  | 🟢     | 🔴     | 🔴     |
+| 5  | 🟢     | 🟡     | 🔴     |
+
+**Leyenda:**
+- 🟢 Bajo  
+- 🟡 Medio  
+- 🔴 Alto  
+
+{: .highlight }
+> La visualización transforma tareas cognitivas (leer, recordar, comparar) en tareas perceptuales (ver, reconocer, identificar).
