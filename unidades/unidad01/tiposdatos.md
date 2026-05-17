@@ -4,5 +4,3 @@ layout: home
 parent: 1. Abstracción de datos y tareas
 ---
 
-## Numérico
-## Categórico
