@@ -67,30 +67,56 @@ La visualización permite:
 - Reducir carga cognitiva
 - Transformar tareas *cognitivas* en **perceptuales**
 
-### 📊 Leer tablas → requiere memoria
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+  <div>
+    <h4>Leer tablas → requiere memoria</h4>
+    <table>
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Valor A</th>
+          <th>Valor B</th>
+          <th>Valor C</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>1</td><td>12</td><td>45</td><td>78</td></tr>
+        <tr><td>2</td><td>15</td><td>50</td><td>82</td></tr>
+        <tr><td>3</td><td>11</td><td>47</td><td>80</td></tr>
+        <tr><td>4</td><td>18</td><td>52</td><td>85</td></tr>
+        <tr><td>5</td><td>14</td><td>49</td><td>79</td></tr>
+      </tbody>
+    </table>
 
-| ID | Valor A | Valor B | Valor C |
-|----|--------|--------|--------|
-| 1  | 12     | 45     | 78     |
-| 2  | 15     | 50     | 82     |
-| 3  | 11     | 47     | 80     |
-| 4  | 18     | 52     | 85     |
-| 5  | 14     | 49     | 79     |
+  </div>
+  <div>
+    <h4>Ver visualización → permite detectar patrones rápidamente</h4>
+    <table>
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Valor A</th>
+          <th>Valor B</th>
+          <th>Valor C</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>1</td><td>🟢</td><td>🟡</td><td>🔴</td></tr>
+        <tr><td>2</td><td>🟢</td><td>🟡</td><td>🔴</td></tr>
+        <tr><td>3</td><td>🟢</td><td>🟡</td><td>🔴</td></tr>
+        <tr><td>4</td><td>🟢</td><td>🔴</td><td>🔴</td></tr>
+        <tr><td>5</td><td>🟢</td><td>🟡</td><td>🔴</td></tr>
+      </tbody>
+    </table>
+    <h5>Leyenda:</h5>
+    <ul>
+      <li>🟢 Bajo</li>
+      <li>🟡 Medio</li>
+      <li>🔴 Alto</li>
+    </ul>
 
-### 🎨 Ver visualización → permite detectar patrones rápidamente
-
-| ID | Valor A | Valor B | Valor C |
-|----|--------|--------|--------|
-| 1  | 🟢     | 🟡     | 🔴     |
-| 2  | 🟢     | 🟡     | 🔴     |
-| 3  | 🟢     | 🟡     | 🔴     |
-| 4  | 🟢     | 🔴     | 🔴     |
-| 5  | 🟢     | 🟡     | 🔴     |
-
-**Leyenda:**
-- 🟢 Bajo  
-- 🟡 Medio  
-- 🔴 Alto  
+  </div>
+</div>
 
 {: .highlight }
 > La visualización transforma tareas cognitivas (leer, recordar, comparar) en tareas perceptuales (ver, reconocer, identificar).
@@ -100,4 +126,10 @@ La visualización permite:
 
 ## ¿Por qué la visión?
 
+<details markdown="block">
+  <summary>
+    Infografía comparativa de sentidos
+  </summary>
+
 <img src="../files/images/senses.png" alt="¿Por qué la visión?" width="75%">
+</details>
