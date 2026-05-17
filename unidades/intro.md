@@ -19,13 +19,12 @@ La visualización se define como:
 >
 > _Computer-based visualization systems provide visual representations of datasets designed to help people carry out tasks more effectively._ (Munzner, T.)
 
-<details open markdown="block">
+<details markdown="block">
   <summary>
     🧠 Elementos clave
   </summary>
 
-1. Datos
-2. Personas
-3. Tareas
-4. Representación visual
+1. Personas y Datos
+2. Tareas
+3. Representación visual
 </details>
