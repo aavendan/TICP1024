@@ -64,7 +64,7 @@ La visualización permite:
 - Reducir carga cognitiva
 - Transformar tareas *cognitivas* en **perceptuales**
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;">
   <div>
     <h4>Leer tablas → requiere memoria</h4>
     <table style="width: 75%">
