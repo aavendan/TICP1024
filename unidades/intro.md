@@ -50,17 +50,18 @@ Muchos problemas de análisis de datos mal especificados:
       <summary>
         ✔️ ¿En qué casos SÍ es útil la visualización?
       </summary>
-    No se necesita visualización cuando existe una <b>solución completamente automática confiable</b>.
-    <ul>
-      <li>Análisis de datos contínuos, p.e.: EDAs científicos</li>
-      <li>Comunicación de hallazgos, p.e.: <a href="https://www.nytimes.com/international/section/upshot">The New York Times – Upshot</a></li>
-      <li>Comprensión del problema y en la definición de los requerimientos.</li>
-      <li>Refinamiento de los algoritmos, p.e.: ajuste parámetros y validación del comportamiento del modelo.</li>
-      <li>Evaluación de los resultados, p.e.: detección errores y validación de sistemas automáticos.</li>
-    <ul>
+      No se necesita visualización cuando existe una <b>solución completamente automática confiable</b>.
+      <ul>
+        <li>Análisis de datos contínuos, p.e.: EDAs científicos</li>
+        <li>Comunicación de hallazgos, p.e.: <a href="https://www.nytimes.com/international/section/upshot">The New York Times – Upshot</a></li>
+        <li>Comprensión del problema y en la definición de los requerimientos.</li>
+        <li>Refinamiento de los algoritmos, p.e.: ajuste parámetros y validación del comportamiento del modelo.</li>
+        <li>Evaluación de los resultados, p.e.: detección errores y validación de sistemas automáticos.</li>
+      <ul>
     </details>
   </div>
 </div>
+
 
 {: .highlight }
 > La visualización no reemplaza a los sistemas automáticos, sino que los complementa, especialmente cuando hay incertidumbre, exploración o necesidad de interpretación.
