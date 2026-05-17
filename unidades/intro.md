@@ -31,10 +31,11 @@ La visualización se define como:
 
 ## El rol del ser humano (Human-in-the-loop)
 
-Muchos problemas de análisis de datos mal especificados:
-- No se conocen exactamente las preguntas desde el inicio<br>
-- Existen múltiples posibles direcciones de análisis<br>
-- Se requiere exploración y adaptación continua<br>
+{: .warning }
+> Muchos problemas de análisis de datos mal especificados:
+> - No se conocen exactamente las preguntas desde el inicio<br>
+> - Existen múltiples posibles direcciones de análisis<br>
+> - Se requiere exploración y adaptación continua<br>
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
   <div>
@@ -45,7 +46,7 @@ Muchos problemas de análisis de datos mal especificados:
     <h4>✔️ ¿En qué casos SÍ es útil la visualización?</h4>
     - Análisis de datos contínuos, p.e.: EDAs científicos<br>
     - Comunicación de hallazgos, p.e.: <a href="https://www.nytimes.com/international/section/upshot">The New York Times – Upshot</a><br>
-    - Comprensión del problema y en la definición de los requerimientos.<br>
+    - Comprensión del problema y definición de los requerimientos.<br>
     - Refinamiento de los algoritmos, p.e.: ajuste parámetros y validación del comportamiento del modelo.<br>
     - Evaluación de los resultados, p.e.: detección errores y validación de sistemas automáticos.
   </div>
@@ -67,7 +68,7 @@ La visualización permite:
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;">
   <div>
     <h4>Leer tablas → requiere memoria</h4>
-    <table style="width: 75%">
+    <table style="width: 50%">
       <thead>
         <tr>
           <th>ID</th>
@@ -87,7 +88,7 @@ La visualización permite:
   </div>
   <div>
     <h4>Ver visualización → permite detectar patrones rápidamente</h4>
-    <table style="width: 75%">
+    <table style="width: 50%">
       <thead>
         <tr>
           <th>ID</th>
