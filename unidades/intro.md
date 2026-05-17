@@ -38,16 +38,27 @@ Muchos problemas de análisis de datos mal especificados:
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
   <div>
-    <h4>❌ ¿Cuándo NO es necesaria la visualización?</h4>
+    <details markdown="block">
+      <summary>
+        ❌ ¿Cuándo NO es necesaria la visualización?
+      </summary>
     No se necesita visualización cuando existe una <b>solución completamente automática confiable</b>.
+    </details>
   </div>
   <div>
-    <h4>✔️ ¿En qué casos SÍ es útil la visualización?</h4>
-    - Análisis de datos contínuos, p.e.: EDAs científicos<br>
-    - Comunicación de hallazgos, p.e.: <a href="https://www.nytimes.com/international/section/upshot">The New York Times – Upshot</a><br>
-    - Comprensión del problema y en la definición de los requerimientos.<br>
-    - Refinamiento de los algoritmos, p.e.: ajuste parámetros y validación del comportamiento del modelo.<br>
-    - Evaluación de los resultados, p.e.: detección errores y validación de sistemas automáticos.
+    <details markdown="block">
+      <summary>
+        ✔️ ¿En qué casos SÍ es útil la visualización?
+      </summary>
+    No se necesita visualización cuando existe una <b>solución completamente automática confiable</b>.
+    <ul>
+      <li>Análisis de datos contínuos, p.e.: EDAs científicos</li>
+      <li>Comunicación de hallazgos, p.e.: <a href="https://www.nytimes.com/international/section/upshot">The New York Times – Upshot</a></li>
+      <li>Comprensión del problema y en la definición de los requerimientos.</li>
+      <li>Refinamiento de los algoritmos, p.e.: ajuste parámetros y validación del comportamiento del modelo.</li>
+      <li>Evaluación de los resultados, p.e.: detección errores y validación de sistemas automáticos.</li>
+    <ul>
+    </details>
   </div>
 </div>
 
@@ -63,7 +74,7 @@ La visualización permite:
 - Reducir carga cognitiva
 - Transformar tareas *cognitivas* en **perceptuales**
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
   <div>
     <h4>Leer tablas → requiere memoria</h4>
     <table style="width: 75%">
