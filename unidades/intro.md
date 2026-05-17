@@ -15,9 +15,7 @@ nav_order: 0
 La visualización se define como:
 
 {: .important }
-> Sistemas computacionales que generan representaciones visuales de datos diseñadas para ayudar a las personas a realizar tareas de manera más efectiva.
->
-> _Computer-based visualization systems provide visual representations of datasets designed to help people carry out tasks more effectively._ (Munzner, T.)
+> Sistemas computacionales que generan representaciones visuales de datos diseñadas para ayudar a las personas a realizar tareas de manera más efectiva. (Munzner, T.)
 
 <details markdown="block">
   <summary>
@@ -25,8 +23,8 @@ La visualización se define como:
   </summary>
 
 1. Personas y Datos
-2. Tareas
-3. Representación visual
+2. Representación visual
+3. Realizar tareas
 </details>
 
 ---
@@ -108,30 +106,12 @@ La visualización permite:
         <tr><td>5</td><td>🟢</td><td>🟡</td><td>🔴</td></tr>
       </tbody>
     </table>
-    <h5>Leyenda:</h5>
-    <table>
-      <thead>
-        <tr>
-          <th>Color</th>
-          <th>Significado</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>🟢</td>
-          <td>Bajo</td>
-        </tr>
-        <tr>
-          <td>🟡</td>
-          <td>Medio</td>
-        </tr>
-        <tr>
-          <td>🔴</td>
-          <td>Alto</td>
-        </tr>
-      </tbody>
-    </table>
-
+    <h5>Leyenda:</h5> 
+    <ul>
+      <li>🟢 Bajo</li>
+      <li>🟡 Medio</li>
+      <li>🔴 Alto</li>
+    </ul>
   </div>
 </div>
 
@@ -150,3 +130,12 @@ La visualización permite:
 
 <img src="../files/images/senses.png" alt="¿Por qué la visión?" width="75%">
 </details>
+
+---
+
+## Importancia de visualizar (todos los datos)
+
+### ✏️ Actividad: Interpretación
+
+{: .highlight }
+> La visualización de datos facilita un análisis más profundo al permitir observar detalles que suelen perderse en los resúmenes estadísticos, identificar anomalías o comportamientos atípicos de manera rápida y validar la coherencia de modelos mediante la inspección directa de la información.
