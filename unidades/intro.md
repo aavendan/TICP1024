@@ -42,9 +42,9 @@ La visualización se define como:
     <h4>✔️ ¿En qué casos SÍ es útil la visualización?</h4>
     - Para usuarios finales que analizan datos continuamente, p.e.: EDAs científicos<br>
     - Para comunicar hallazgos ya identificados, p.e.: <a href="https://www.nytimes.com/international/section/upshot">The New York Times – Upshot</a><br>
-    - Paso previo al desarrollo de modelos, para la comprensión del problema y en la definición de los requerimientos.<br>
-    - Apoyo a desarrolladores de soluciones automáticas: refinamiento de los algoritmos, ajuste parámetros y validación del comportamiento del modelo.<br>
-    - Verificación y confianza en sistemas automáticos: evaluación de los resultados, detección errores y construcción de la confianza en el sistema.
+    - Comprensión del problema y en la definición de los requerimientos (Paso previo al desarrollo de modelos).<br>
+    - Refinamiento de los algoritmos, ajuste parámetros y validación del comportamiento del modelo.<br>
+    - Evaluación de los resultados, detección errores y validación de sistemas automáticos.
   </div>
   <div>
     <h4>❓ Problemas de análisis mal definidos</h4>
@@ -55,3 +55,5 @@ La visualización se define como:
   </div>
 </div>
 
+{: .highlight }
+La visualización no reemplaza a los sistemas automáticos, sino que los complementa, especialmente cuando hay incertidumbre, exploración o necesidad de interpretación.
