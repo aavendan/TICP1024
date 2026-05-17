@@ -1,5 +1,5 @@
 ---
-title: Visualización de Datos
+title: Introducción
 layout: home
 parent: Contenidos
 nav_order: 0
@@ -20,8 +20,8 @@ La visualización se define como:
 > _Computer-based visualization systems provide visual representations of datasetsdesigned to help people carry out tasks more effectively._
 
 ### 🧠 Elementos clave:
-- Datos
-- Personas
+
+- Personas y Datos
 - Tareas
 - Representación visual
 
