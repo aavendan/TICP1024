@@ -8,7 +8,7 @@ nav_order: 1
 
 La asignatura **Visualización de Datos Masivos** introduce los fundamentos para diseñar, construir y evaluar visualizaciones efectivas de datos. A lo largo del curso, se explorarán principios de diseño, percepción visual, codificación gráfica e interacción para comunicar información de valor a distintas audiencias.
 
-Este curso combina el análisis conceptual con el desarrollo de un **proyecto de visualización interactiva**, que culminará con la presentación de resultados en formato de artículo.
+Este curso combina el análisis conceptual con el desarrollo de un **proyecto de visualización interactiva**, que culminará con la presentación de resultados.
 
 ---
 

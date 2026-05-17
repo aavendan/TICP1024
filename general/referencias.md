@@ -17,7 +17,7 @@ nav_order: 10
 * Home \| Vis & Society 2026. (n.d.). Vis & Society 2026. Retrieved May 17, 2026 from https://vis-society.github.io/
 * Interactive Data Visualization and Society \| Electrical Engineering and Computer Science \| MIT OpenCourseWare. (n.d.). MIT OpenCourseWare. Retrieved May 17, 2026 from https://ocw.mit.edu/courses/6-c35-interactive-data-visualization-and-society-spring-2025/
 
-## 📘 Documentación
+## 📘 Documentación técnica
 
 * Home \| Just the Docs. (n.d.). Just the Docs. Retrieved May 17, 2026 from https://just-the-docs.com/
 * Jekyll • Simple, blog-aware, static sites \| Transform your plain text into static websites and blogs. (n.d.). Jekyll • Simple. Blog-aware. Static Sites. Retrieved May 17, 2026 from https://jekyllrb.com/

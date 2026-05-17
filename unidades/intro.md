@@ -31,25 +31,23 @@ La visualización se define como:
 
 ## El rol del ser humano (Human-in-the-loop)
 
-<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 20px;">
+Muchos problemas de análisis de datos mal especificados:
+- No se conocen exactamente las preguntas desde el inicio<br>
+- Existen múltiples posibles direcciones de análisis<br>
+- Se requiere exploración y adaptación continua<br>
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
   <div>
     <h4>❌ ¿Cuándo NO es necesaria la visualización?</h4>
     No se necesita visualización cuando existe una <b>solución completamente automática confiable</b>.
   </div>
   <div>
     <h4>✔️ ¿En qué casos SÍ es útil la visualización?</h4>
-    - Para usuarios finales que analizan datos continuamente, p.e.: EDAs científicos<br>
-    - Para comunicar hallazgos ya identificados, p.e.: <a href="https://www.nytimes.com/international/section/upshot">The New York Times – Upshot</a><br>
-    - Comprensión del problema y en la definición de los requerimientos (Paso previo al desarrollo de modelos).<br>
-    - Refinamiento de los algoritmos, ajuste parámetros y validación del comportamiento del modelo.<br>
-    - Evaluación de los resultados, detección errores y validación de sistemas automáticos.
-  </div>
-  <div>
-    <h4>❓ Problemas de análisis mal definidos</h4>
-    Muchos problemas de análisis de datos mal especificados, lo que significa que:<br>
-    - No se conocen exactamente las preguntas desde el inicio<br>
-    - Existen múltiples posibles direcciones de análisis<br>
-    - Se requiere exploración y adaptación continua<br>
+    - Análisis de datos contínuos, p.e.: EDAs científicos<br>
+    - Comunicación de hallazgos, p.e.: <a href="https://www.nytimes.com/international/section/upshot">The New York Times – Upshot</a><br>
+    - Comprensión del problema y en la definición de los requerimientos.<br>
+    - Refinamiento de los algoritmos, p.e.: ajuste parámetros y validación del comportamiento del modelo.<br>
+    - Evaluación de los resultados, p.e.: detección errores y validación de sistemas automáticos.
   </div>
 </div>
 
@@ -85,7 +83,6 @@ La visualización permite:
         <tr><td>5</td><td>14</td><td>49</td><td>79</td></tr>
       </tbody>
     </table>
-
   </div>
   <div>
     <h4>Ver visualización → permite detectar patrones rápidamente</h4>
@@ -133,7 +130,7 @@ La visualización permite:
 
 ---
 
-## Importancia de visualizar (todos los datos)
+## Importancia de visualizar
 
 ### ✏️ Actividad: Interpretación
 
