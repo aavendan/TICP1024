@@ -14,7 +14,7 @@ nav_order: 0
 
 La visualización se define como:
 
-{: .important }
+{: .definition }
 > Sistemas computacionales que generan representaciones visuales de datos diseñadas para ayudar a las personas a realizar tareas de manera más efectiva. (Munzner, T.)
 
 <details markdown="block">

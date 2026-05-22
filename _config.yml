@@ -9,19 +9,23 @@ toc:
 
 callouts:
   highlight:
+    title: Para recordar
     color: yellow
   important:
-    title: Important
+    title: Importante
     color: blue
   new:
-    title: New
+    title: Información
     color: green
   note:
-    title: Note
+    title: Nota
     color: purple
   warning:
-    title: Warning
+    title: Advertencia
     color: red
+  definition:
+    title: Definición
+    color: cyan
 
 plugins:
   - jekyll-pdf-embed
