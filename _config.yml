@@ -7,6 +7,22 @@ url: https://aavendan.github.io/TICP1024
 toc:
   title: "Tabla de contenidos"
 
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+
 plugins:
   - jekyll-pdf-embed
   - jekyll-toc
